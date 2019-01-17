@@ -1,0 +1,8 @@
+# Create by .ignore support .plugin
+.project
+/.idea/*
+.settings
+*.iml
+rebel*.xml
+.classpath
+/*/target
